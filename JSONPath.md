@@ -8,7 +8,7 @@ The JSONPath expression is applied to the value of Observation's `value.result`.
 ## Examples
 
 ### Object
-Observation:
+Observations:
 ```json
 {
     "value": [
@@ -38,7 +38,7 @@ $.x
 ```
 
 ### Object with array of objects
-Observation:
+Observations:
 ```json
 {
     "value": [
