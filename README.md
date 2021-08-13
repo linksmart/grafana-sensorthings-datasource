@@ -1,4 +1,6 @@
 # Grafana OGC SensorThings Plugin
+**NOTE: This plugin is no longer maintained by LinkSmart. Please visit [frost-sensorthings-datasource](https://github.com/FraunhoferIOSB/frost-sensorthings-datasource).**
+
 A Grafana Data Source plugin to query observation and location data from an [OGC SensorThings](https://github.com/opengeospatial/sensorthings) server for visualization on [Grafana](http://grafana.org/) panels.
 
 It provides:
